@@ -19,7 +19,6 @@ I build production AI systems for B2B clients. 7 years of software engineering, 
 ## Public repos
 
 - **[n8n-elevenlabs-tiktok-quiz](https://github.com/maxime-ktcm2/n8n-elevenlabs-tiktok-quiz)** · personal content automation pipeline. n8n + ElevenLabs Turbo v2.5 (SSML) + OpenAI + Creatomate. Generates short-form quiz videos for TikTok / YouTube Shorts / Reels.
-- **[voice-agent-cheatsheet](https://github.com/maxime-ktcm2/voice-agent-cheatsheet)** · production patterns for Vapi, Retell, ElevenLabs voice agents (May 2026).
 
 ## Stack
 
